@@ -19,6 +19,7 @@ def absentSC(listOfStudent, numberOfStudent):
     return count
 
 
+#Function to find elements with highest frequency
 
 def mFelement(listOfStudent):
 
